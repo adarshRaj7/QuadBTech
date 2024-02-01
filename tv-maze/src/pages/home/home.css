@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin-right: auto; */
+    justify-content: center;
+}
+
+.card{
+    margin: 10px;
+    border-radius: 15px !important;
+    overflow: auto;
+}
+.navbar{
+    background-color: grey;
+}
+.navbar a{
+    color:white
+}
